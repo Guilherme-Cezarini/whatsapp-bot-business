@@ -1,4 +1,4 @@
-# Nome da Empresa ou Projeto
+# Assistente de controle finaceiro via WhatsApp
 
 Bem-vindo! Somos uma empresa especializada em soluções digitais e automações personalizadas através do WhatsApp. Utilizamos tecnologias modernas para facilitar a comunicação entre empresas e clientes, com foco em agilidade, praticidade e experiência.
 
